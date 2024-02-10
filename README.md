@@ -1,0 +1,1 @@
+This is a simple JAVA console app which displays the hardware specifications of mobile phones. this is a standalone JAVA app without a Database with the purpose of learning and understanding the use of switch and enhanced switch.
